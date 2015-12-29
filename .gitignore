@@ -1,0 +1,6 @@
+env/
+tags
+*.pyc
+*.swp
+search-requests.spl
+search-requests.tar.gz

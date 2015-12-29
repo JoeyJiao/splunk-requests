@@ -1,0 +1,7 @@
+[commands]
+access = read : [ * ], write : [ admin, power ]
+export = system
+
+[searchbnf]
+access = read : [ * ], write : [ admin, power ]
+export = system
